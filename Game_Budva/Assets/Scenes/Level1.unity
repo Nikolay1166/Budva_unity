@@ -1993,6 +1993,14 @@ PrefabInstance:
       propertyPath: scoreText
       value: 
       objectReference: {fileID: 496438995}
+    - target: {fileID: 1087476400296167208, guid: 47f00d7cc09eb6848b158c4db643fae6, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1087476400296167208, guid: 47f00d7cc09eb6848b158c4db643fae6, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5435491456955036487, guid: 47f00d7cc09eb6848b158c4db643fae6, type: 3}
       propertyPath: m_Name
       value: Player
