@@ -21,12 +21,12 @@ public class Move : MonoBehaviour
 
     private void Update(){
         SpriteRenderer SpriteRenderer = gameObject.GetComponent<SpriteRenderer>();   
-       if(Input.GetKey(KeyCode.D)) {
+       if(Input.GetKey(KeyCode.A)) {
            transform.Translate(new Vector3(1,0,0) * Time.deltaTime * speed);
            
             SpriteRenderer.flipX = false;
          }
-       if(Input.GetKey(KeyCode.A)) {
+       if(Input.GetKey(KeyCode.D)) {
            transform.Translate(new Vector3(-1,0,0) * Time.deltaTime * speed);    
            SpriteRenderer.flipX = true;
        }   
