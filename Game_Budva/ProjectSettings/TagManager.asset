@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Colect box
+  - Key1
+  - Key0
+  - Key2
   layers:
   - Default
   - TransparentFX
