@@ -59,7 +59,7 @@ public class Move : MonoBehaviour
      Destroy (other.gameObject);
      audio.clip =  audiotake;
         audio.Play();
-     score++;
+    // score = Logic.Keys[1];
      if (score != 4)
          scoreText.text = "Box: " + score; 
      else

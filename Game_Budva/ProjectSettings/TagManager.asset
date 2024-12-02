@@ -5,7 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Colect box
+<<<<<<< Updated upstream
   - Sila2
+=======
+  - Key1
+  - Key0
+  - Key2
+  - door
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
