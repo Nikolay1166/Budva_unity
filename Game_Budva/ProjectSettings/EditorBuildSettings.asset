@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dania.unity
     guid: 9c6ab57ea870f7c459bf9d43ca48f988
+  - enabled: 1
+    path: Assets/Scenes/level test.unity
+    guid: 3982a678f25850d41b2d4745a5a8135e
   m_configObjects: {}

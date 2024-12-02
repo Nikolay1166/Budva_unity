@@ -11,14 +11,12 @@ public class Logic : MonoBehaviour
 
 public int [] Keys = new int[3];
 
-    void Start()
-    {
-        
-    }
-    void Update()
-    {
-        
-    }
+   
+
+
+
+
+   
     private void OnTriggerEnter2D(Collider2D other)
 {
        
