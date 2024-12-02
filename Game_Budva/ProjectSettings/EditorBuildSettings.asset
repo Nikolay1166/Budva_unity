@@ -6,15 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/2_Level2_Georgy.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/!_MainMenu_Georgy.unity
+    guid: 9c14951f1025e4ed585b08e9078192e0
   - enabled: 1
     path: Assets/Scenes/1_Level1_Gleb.unity
     guid: cc07c3d077985ef46ab537f996be961a
+  - enabled: 1
+    path: Assets/Scenes/2_Level2_Georgy.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/3_Levl3_Dania.unity
     guid: 9c6ab57ea870f7c459bf9d43ca48f988
   - enabled: 1
     path: Assets/Scenes/level test.unity
-    guid: 3982a678f25850d41b2d4745a5a8135e
+    guid: f81e6f39403331745a73b79cfec8f5c9
   m_configObjects: {}
