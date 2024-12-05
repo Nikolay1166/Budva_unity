@@ -8,11 +8,6 @@ using UnityEngine.SceneManagement;
 
 public class Logic : MonoBehaviour
 {
-    public int[] keys = new int[3];
-    void Start()
-    {
-        
-    }
 
 public int [] Keys = new int[3];
 
