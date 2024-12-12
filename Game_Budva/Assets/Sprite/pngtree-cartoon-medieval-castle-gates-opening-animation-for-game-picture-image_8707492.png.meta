@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e376a8bfc4f69cd47a05569ad00263d3
+guid: 3d4210489d484c24d9a33107b3dd923b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,43 +93,9 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_0
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 206
-        width: 219
-        height: 194
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6541490377be6448b99fe594ff681f9
-      internalID: 910459004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -140,27 +106,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_0: 910459004
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_1: 2069593819
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_10: 906952645
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_11: 266836951
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_12: 1508439541
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_13: 1748507199
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_14: 1290120861
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_15: 1045640562
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_16: 445670737
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_17: 1742335579
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_18: -697169634
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_19: 1849022115
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_2: -896272981
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_3: -1114238775
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_4: 1473911033
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_5: -1899394521
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_6: -1472620392
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_7: 117944262
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_8: -656640273
-      pngtree-cartoon-medieval-castle-gates-opening-animation-for-game-picture-image_8707492_9: -1157726403
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
