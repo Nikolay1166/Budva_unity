@@ -10,11 +10,29 @@ public class Logic : MonoBehaviour
 {
 
 public int [] Keys = new int[3];
+class chtoto
+   {
+    public int energy;
 
-   
+    public void numenergy()
+    {
+    Debug.Log("power=" + energy);
+    }
+
+   }
 
 
 
+    void start()
+    {
+chtoto energydrink = new chtoto();
+
+energydrink.energy = 1;
+energydrink.numenergy();
+
+
+
+    }
 
    
     private void OnTriggerEnter2D(Collider2D other)
