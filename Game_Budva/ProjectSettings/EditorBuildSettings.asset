@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/1_Level1_Gleb.unity
     guid: cc07c3d077985ef46ab537f996be961a
   - enabled: 1
+    path: Assets/Scenes/1 LVL gleb 2 scene.unity
+    guid: 240bcc22504796541b4ecef57b3973aa
+  - enabled: 1
     path: Assets/Scenes/2_Level2_Georgy.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
