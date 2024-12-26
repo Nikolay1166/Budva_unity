@@ -32,11 +32,32 @@ Debug.Log("объект ");
 
 
 public int [] Keys = new int[3];
+class chtoto
+   {
+    public int energy;
+    public string name;
 
-   
+    public void numenergy()
+    {
+    Debug.Log("power=" + energy);
+    }
+
+   }
 
 
 
+    void start()
+    {
+chtoto energydrink = new chtoto();
+chtoto energydrink2 = new chtoto();
+chtoto energydrink3 = new chtoto();
+energydrink.energy = 1;
+
+energydrink.numenergy();
+
+
+
+    }
 
    
     private void OnTriggerEnter2D(Collider2D other)
