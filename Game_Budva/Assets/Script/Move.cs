@@ -1,13 +1,13 @@
-using TMPro;
+//using TMPro;
 using UnityEditor.Tilemaps;
 using UnityEngine;
 using UnityEngine.UI;
 public class Move : MonoBehaviour
 {
-    [SerializeField] private int speed = 5; 
+    private int speed = 5; 
     public float jump = 8; 
     public int score = 0; 
-    public TMP_Text scoreText;
+  //  public TMP_Text scoreText;
     public bool grounded = false;
     private AudioSource audio;
     public AudioClip audiojump, audiotake;
@@ -60,10 +60,10 @@ public class Move : MonoBehaviour
      audio.clip =  audiotake;
         audio.Play();
     // score = Logic.Keys[1];
-     if (score != 4)
-         scoreText.text = "Box: " + score; 
-     else
-         scoreText.text = "you win!";
+    // if (score != 4)
+    //     scoreText.text = "Box: " + score; 
+    // else
+    //     scoreText.text = "you win!";
     }   
 }
 }
