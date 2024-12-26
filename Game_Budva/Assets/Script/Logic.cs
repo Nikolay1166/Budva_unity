@@ -5,9 +5,31 @@ using UnityEngine;
 using TMPro;
 using JetBrains.Annotations;
 using UnityEngine.SceneManagement;
+using System.ComponentModel;
 
 public class Logic : MonoBehaviour
 {
+
+class Gamelogic
+{
+public int weight; 
+
+public void WriteInfo()
+{
+ Debug.Log("Вес объекта - " + weight);
+}
+}
+
+Gamelogic rope = new Gamelogic();
+
+void Start()
+{
+rope.weight = 15;
+rope.WriteInfo();
+
+Debug.Log("объект ");
+}
+
 
 public int [] Keys = new int[3];
 
