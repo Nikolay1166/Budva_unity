@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 1576871773}
   m_Layer: 0
   m_Name: Method Draw Image (1)
-  m_TagString: Untagged
+  m_TagString: Sila2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
