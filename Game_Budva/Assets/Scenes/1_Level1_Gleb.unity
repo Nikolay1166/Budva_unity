@@ -372,6 +372,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.04
       objectReference: {fileID: 0}
+    - target: {fileID: 4074681607913625232, guid: 12d9216549dab604faaf3c5bc31df93a, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6972213192579131809, guid: 12d9216549dab604faaf3c5bc31df93a, type: 3}
       propertyPath: m_Name
       value: brown platform merged transparent
@@ -379,6 +383,14 @@ PrefabInstance:
     - target: {fileID: 6972213192579131809, guid: 12d9216549dab604faaf3c5bc31df93a, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6972213192579131809, guid: 12d9216549dab604faaf3c5bc31df93a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8277149728503386319, guid: 12d9216549dab604faaf3c5bc31df93a, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
